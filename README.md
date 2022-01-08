@@ -1,14 +1,24 @@
-## Purpose
+# README
 
-- 晩杯屋のせんべろガチャができるwebアプリ
-- サイゼリヤ1000円ガチャのパクリ
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## process
+Things you may want to cover:
 
-- まずフロントをつくる
-  - htmlとcssかなぁ
-  - vueやreactを見てもいいけど諦めると思う
-- 裏側をどうやってつくるか
-  - Rubyは慣れてるので組み込めればそっちの方がいいけどjsの方が楽なのかな
-  - Webアプリの仕組みについて理解する必要がある
-- ガチャ部分の実装
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
